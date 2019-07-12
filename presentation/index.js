@@ -147,8 +147,8 @@ export default class Presentation extends React.Component {
               <ListItem>Développeur Web</ListItem>
               <ListItem>Développeur PHP</ListItem>
               <ListItem>Développeur Javascript</ListItem>
-              <ListItem>Développeur back</ListItem>
-              <ListItem>Développeur front</ListItem>
+              <ListItem>Développeur rockstar</ListItem>
+              <ListItem>Développeur fullstack</ListItem>
               <ListItem>Intégrateur</ListItem>
               <ListItem>etc....</ListItem>
             </List>
@@ -195,7 +195,7 @@ export default class Presentation extends React.Component {
               <ListItem>La créativité</ListItem>
             </Appear>
             <Appear>
-              <ListItem>L'égo</ListItem>
+              <ListItem>Sans égo (ou peu)</ListItem>
             </Appear>
             <Appear>
               <ListItem>La communication</ListItem>
@@ -204,7 +204,7 @@ export default class Presentation extends React.Component {
               <ListItem>L'empathie</ListItem>
             </Appear>
             <Appear>
-              <ListItem>Aidant</ListItem>
+              <ListItem>Prêt à aider/mentorer</ListItem>
             </Appear>
             <Appear>
               <ListItem>Organisé</ListItem>
