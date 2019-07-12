@@ -174,9 +174,9 @@ export default class Presentation extends React.Component {
           <Heading textColor="primary">Compétences techniques</Heading>
           <Appear>
             <List textColor="primary">
-              <ListItem>Design Pattern</ListItem>
+              <ListItem>Les design pattern</ListItem>
               <ListItem>Structure de données</ListItem>
-              <ListItem>Algorithmie</ListItem>
+              <ListItem>L'algorithmique</ListItem>
               <ListItem>Tests</ListItem>
               <ListItem>...</ListItem>
             </List>
